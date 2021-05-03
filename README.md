@@ -1,0 +1,2 @@
+# -aman-arya-Percentage-Probability-Evaluation-for-COVID-19-using-Machine-Learning
+I have applied Machine Learning algorithm namely Naive Bayes, SVM, linear regression , Logistic Regression ,Random Forest, ann and unsupervised learning on realtime data containing clinical feature of “patients seen at the Hospital Israelita Albert Einstein in Brazil''. I was able to predict the percentage probability for a person to be infected with COVID-19 with good accuracy
